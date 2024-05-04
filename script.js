@@ -1,3 +1,4 @@
+//cargando el documento html
 $( document ).ready(function() {
     $("#menos").click(function(){
         //obtiene el valor del contador y al mismo tiempo lo convierte en numero entero
